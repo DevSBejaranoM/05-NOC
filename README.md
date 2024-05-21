@@ -10,6 +10,9 @@ PROD=false
 
 PORT=3000
 
+MAILER_SERVICE=
 MAILER_EMAIL=
 MAILER_SECRET_KEY=
 ```
+3. Ejecutar el comando ```npm install```
+4. Ejecutar ```npm run dev```
